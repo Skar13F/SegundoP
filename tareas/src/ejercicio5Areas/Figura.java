@@ -21,8 +21,7 @@ public abstract class Figura {
 	}
 	
 	public float Area() {
-		float resul=0;
-		return resul;
+		return 0;
 		
 	}
 
