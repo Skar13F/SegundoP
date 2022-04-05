@@ -1,3 +1,8 @@
+/*Autor: Oscar Fuentes Alvarado
+ * Fecha de creación: 05 de abril de 2022
+ * Fecha de actualización: 05 de abril
+ * Descripción: Clase principal para solicitar e imprinir el área de las figuras
+ */
 package ejercicio5Areas;
 import java.util.Scanner;
 
