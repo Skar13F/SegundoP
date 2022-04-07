@@ -21,7 +21,6 @@ public class Promedio {
 	public float getTrimestre() {
 		return trimestre;
 	}
-
 	public void setTrimestre(float trimestre) {
 		this.trimestre = trimestre;
 	}
